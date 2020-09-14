@@ -5,19 +5,22 @@
 }
 
 .card_principal{
-    width: 33%;
-    padding: 10px 0 30px 10px;
+    padding: 0px 0px 20px 0px;
 }
 
-.titulo{
+.nome_da_empresa{
     width: auto;
     font: 800 .9rem Raleway;
     color: white;
+    text-decoration: none;
+
     border: 1px solid black;
     border-top-left-radius: 10px;
     background-color: black;
+    
     display: inline-block;
     padding: 4px 4px 4px 5px;
+
 
 }
 
