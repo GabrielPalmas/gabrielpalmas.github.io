@@ -14,27 +14,33 @@
     color: white;
     text-decoration: none;
 
-    border: 1px solid black;
     border-top-left-radius: 10px;
     background-color: black;
-    
+
     display: inline-block;
-    padding: 4px 4px 4px 5px;
+    padding: 5px;
 
+    transition: background-color .3s;
+}
 
+.nome_da_empresa:hover{
+    background-color: rgb(53, 53, 53);
 }
 
 .cargo{
     font: 800 1.3rem Raleway;
+    padding: 0px;
 }
 
 .periodo{
     font: 300 1rem Raleway;
+    padding: 0px;
 }
 
 
 .descricao{
     font: 300 1rem Raleway;
     padding: .5rem 0 0 1rem;
+    
 
 }
