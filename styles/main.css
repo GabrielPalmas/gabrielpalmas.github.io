@@ -45,6 +45,7 @@
     flex-wrap: wrap ; */
 
     padding: 5px 0px 0px 5px;
+    margin-bottom: 40px;
 }
 
 .main_divider{
@@ -115,6 +116,5 @@
 .descricao{
     font: 300 1rem Raleway;
     padding: .5rem 0 0 1rem;
-    
 
 }
